@@ -3,7 +3,7 @@
 -🌱 Currently, I’m delving into open-source tools while researching datacenter thermal modelling. I’m integrating machine learning to predict and estimate the optimal temperatures.
 - I’m eager to collaborate on high-performance computing projects for CFD problems.
 -📫 How to reach me: gulzarali05@gmail.com
--😄 Pronouns: her man
+-😄 Pronouns:
 -⚡ Fun fact: Give me an interesting problem, and I'm all in!
 
 I hold a master's degree in Computational Sciences and Engineering, specializing in Advanced Partial Differential Equations, 
