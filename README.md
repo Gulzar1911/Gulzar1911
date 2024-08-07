@@ -1,17 +1,14 @@
--👋 Hi, I’m @Gulzar1911
--👀 I’m passionate about CFD code development, numerical modelling, and artificial intelligence.
--🌱 Currently, I’m delving into open-source tools while researching datacenter thermal modelling. I’m integrating machine learning to predict and estimate the optimal temperatures.
-- I’m eager to collaborate on high-performance computing projects for CFD problems.
--📫 How to reach me: gulzarali05@gmail.com
--😄 Pronouns:
+Hi, I’m @Gulzar1911,
+I’m passionate about CFD code development, numerical modelling of multiphysics problems and machine learning.
+Currently, I’m delving into open-source tools while researching datacenter thermal modelling. I’m integrating machine learning to predict and estimate the optimal parameters to increase efficiency of Datacenters. I’m eager to collaborate on high-performance / parallel computing projects of CFD.
+
+Email: gulzarali05@gmail.com
+
 -⚡ Fun fact: Give me an interesting problem, and I'm all in!
 
-I hold a master's degree in Computational Sciences and Engineering, specializing in Advanced Partial Differential Equations, 
+I hold a master's degree in Computational Sciences and Engineering, with electives in Advanced Partial Differential Equations, 
 Machine Learning, and Computational Fluid Dynamics. With extensive experience using ANSYS and COMSOL, I’m now expanding my 
-horizons with open-source software. My work spans Multiphase Fluid Flow, Complex Air Flows in Data Center Rooms, and Material Modelling.
+horizons with open-source tools. My work spans Multiphase Fluid Flow, Complex Air Flows in Data Center Rooms, and Material Modelling.
 
 
-<!---
-Gulzar1911/Gulzar1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
