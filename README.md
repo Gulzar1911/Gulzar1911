@@ -8,7 +8,7 @@ Email: gulzarali05@gmail.com
 
 I hold a master's degree in Computational Sciences and Engineering, with electives in Advanced Partial Differential Equations, 
 Machine Learning, and Computational Fluid Dynamics. With extensive experience using ANSYS and COMSOL, I’m now expanding my 
-horizons with open-source tools. My work spans Multiphase Fluid Flow, Complex Air Flows in Data Center Rooms, and Material Modelling.
+horizons with open-source tools. My work spans Multiphase Fluid Flow, Complex fluid Flows, and Numerical Modelling.
 
 
 
